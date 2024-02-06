@@ -61,5 +61,3 @@ This project includes a utility program called BackMasking, which reads a .dat f
 - **Note:** This program assumes a specific format for the input .dat file.
 
 Feel free to explore each file for detailed implementation and documentation of stack operations.
-
-For any questions or issues, please contact [your_email@example.com].
